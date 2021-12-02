@@ -1,0 +1,7 @@
+node_modules
+*~
+*#
+
+# just in case
+ignore*
+#!ignoreme.txt
