@@ -1,2 +1,2 @@
-coucou
+console.log("hello world");
 
